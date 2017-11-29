@@ -1,0 +1,25 @@
+* I\O
+- DoS 1|2|3: Requires I\O 1|2|3, target Crypto, deals 1|2|3 damage and
+  removes 1 Crypto
+- Data Dump 1|2|3: Burn 1|2|3 I\O to gain 1|2|3 Processing
+- DDoS 1|2|3: Requires I\O 2|3|4, target Crypto all, damage 1|2|3 and burn Crypto
+- Zero Bomb 1|2|3: Requires I\O 1|2|3, target I\O, deals 1|2|3 damage.
+- Data Bus 1|2: Requires I\O 2|3, target Processing, gives target 1|2 extra actions.
+- Grow: Virus only. Target self Crypto, become adult version of self
+* Processing
+- MMap 1|2|3: Req. 1|2|3, target I\O, damage 1|2|3 and burn I\O
+- Keygen 1|2|3: Burn 1|2|3 Processing to gain 1|2|3 Crypto
+- Pattern Match 1|2|3: Req. 2|3|4, target I\O all, damage 1|2|3 and burn I\O.
+- HashOut 1|2|3: Req. 1|2|3, target Processing, damage 1|2|3
+- Exploit 1|2: Req. 2|3, target Crypto, damage against target increased by 1
+- Copy Worm: Virus, target I\O, spawn new Worm
+* Crypto
+- Lockout 1|2|3: Req. 1|2|3, target Processing, damage 1|2|3 and burn
+- Raw Output 1|2|3: Burn 1|2|3 Crypto to gain 1|2|3 I\O
+- Ransomware 1|2|3: Req. 2|3|4, target Processing all, damage 1|2|3 and burn
+  Processing.
+- Brute Force 1|2|3: Req. 1|2|3, target Crypto, damage 1|2|3
+- RSA 1|2: Req. 2|3, target I\O, target gains 1 Integrity
+* All
+- Coin Mine I\O|Proc|Crypt: Target Crypto|I\O|Processing with I\O|Proc|Crypto, gain CCoin equal to
+  target's Crypto|I\O|Processing.

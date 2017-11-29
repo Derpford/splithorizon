@@ -1,0 +1,44 @@
+* High I\O
+** Worm
+- IO 2
+- Proc 1
+- Crypt 1
+- Integrity 2
+- Zero Bomb 1
+- Data Bus 1
+
+** Baby Worm
+- IO 1
+- Proc 0
+- Crypt 0
+- Int 1
+- Grow
+* High Proc
+** Wormed File
+- IO 1
+- Proc 2
+- Crypto 1
+- Int 4
+- Copy Worm
+** Keylogger
+- IO 1
+- Proc 2
+- Crypto 0
+- Int 3
+- MMap 1
+- Exploit 1
+* High Crypto
+** Locker
+- IO 1
+- Proc 1
+- Crypto 2
+- Int 2
+- Lockout 1
+- RSA 1
+** HashMan
+- IO 0
+- Proc 2
+- Crypto 3
+- Int 3
+- Ransomware 1
+- Raw Output 1
