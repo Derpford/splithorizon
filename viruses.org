@@ -42,3 +42,9 @@
 - Int 3
 - Ransomware 1
 - Raw Output 1
+* Special
+** Damaged Cyberman
+- One Random Stat: 1
+- Other stats: 0
+- Int 3
+- A direct attack program for its random stat
